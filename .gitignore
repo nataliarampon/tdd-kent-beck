@@ -27,4 +27,5 @@ replay_pid*
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-.idea
+.idea/
+tdd-kent-beck.iml
