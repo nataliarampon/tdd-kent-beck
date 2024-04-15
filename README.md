@@ -8,8 +8,10 @@ I'll be updating the to-do list as I go through the chapters in the book. If you
 
 * $5 + 10CHF = $10 if rate is 2:1
 * ~~$5 * 2 = $10~~
-* Make "amount" private
+* ~~Make "amount" private~~
 * ~~Dollar side-effects?~~
 * Money rounding?
 * ~~equals()~~
 * hashCode()
+* Equal null
+* Equal object
