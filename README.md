@@ -15,3 +15,7 @@ I'll be updating the to-do list as I go through the chapters in the book. If you
 * hashCode()
 * Equal null
 * Equal object
+* ~~5CHF * 2 = 10CHF~~
+* Dollar/Franc duplication
+* Common equals
+* Common times
