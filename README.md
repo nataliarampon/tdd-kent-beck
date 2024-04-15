@@ -11,3 +11,5 @@ I'll be updating the to-do list as I go through the chapters in the book. If you
 * Make "amount" private
 * ~~Dollar side-effects?~~
 * Money rounding?
+* ~~equals()~~
+* hashCode()
