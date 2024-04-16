@@ -17,5 +17,6 @@ I'll be updating the to-do list as I go through the chapters in the book. If you
 * Equal object
 * ~~5CHF * 2 = 10CHF~~
 * Dollar/Franc duplication
-* Common equals
+* ~~Common equals~~
 * Common times
+* Compare Francs with Dollars
