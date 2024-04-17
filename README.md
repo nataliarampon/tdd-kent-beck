@@ -20,4 +20,5 @@ I'll be updating the to-do list as I go through the chapters in the book. If you
 * ~~Common equals~~
 * Common times
 * ~~Compare Francs with Dollars~~
-* Currency?
+* ~~Currency?~~
+* Delete testFrancMultiplication?
