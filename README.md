@@ -18,7 +18,7 @@ I'll be updating the to-do list as I go through the chapters in the book. If you
 * ~~5CHF * 2 = 10CHF~~
 * Dollar/Franc duplication
 * ~~Common equals~~
-* Common times
+* ~~Common times~~
 * ~~Compare Francs with Dollars~~
 * ~~Currency?~~
 * Delete testFrancMultiplication?
