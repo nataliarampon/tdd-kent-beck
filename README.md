@@ -7,6 +7,7 @@ Kent says we should have an ongoing to-do list of the behaviors we want our syst
 I'll be updating the to-do list as I go through the chapters in the book. If you wish to see its progress, check the git history of commits. :)
 
 * $5 + 10CHF = $10 if rate is 2:1
+* $5 + $5 = 10$
 * ~~$5 * 2 = $10~~
 * ~~Make "amount" private~~
 * ~~Dollar side-effects?~~
@@ -16,9 +17,9 @@ I'll be updating the to-do list as I go through the chapters in the book. If you
 * Equal null
 * Equal object
 * ~~5CHF * 2 = 10CHF~~
-* Dollar/Franc duplication
+* ~~Dollar/Franc duplication~~
 * ~~Common equals~~
 * ~~Common times~~
 * ~~Compare Francs with Dollars~~
 * ~~Currency?~~
-* Delete testFrancMultiplication?
+* ~~Delete testFrancMultiplication?~~
