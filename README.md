@@ -14,7 +14,7 @@ I'll be updating the to-do list as I go through the chapters in the book. If you
 * Equal object
 * Money rounding?
 * ~~Sum.plus~~
-* Expression.times
+* ~~Expression.times~~
 * ~~Bank.reduce(Money)~~
 * ~~Reduce Money with conversion~~
 * ~~Reduce(Bank,String)~~
