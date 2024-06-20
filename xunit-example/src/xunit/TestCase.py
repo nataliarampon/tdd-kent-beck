@@ -8,4 +8,8 @@ class TestCase(object):
   def run(self):
     self.setUp()
     method = getattr(self, self.name)
-    return method()
+    method()
+    self.tearDown()
+  
+  def tearDown(self):
+    pass
