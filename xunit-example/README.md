@@ -6,6 +6,7 @@ I'll be updating the to-do list as I go through the chapters in the book. If you
 * ~~Invoke tearDown afterward~~
 * ~~Log string in WasRun~~
 * ~~Report collected results~~
-* Report failed tests
+* ~~Report failed tests~~
 * Invoke tearDown even if the test method fails
 * Run multiple tests
+* Catch and report setUp errors
