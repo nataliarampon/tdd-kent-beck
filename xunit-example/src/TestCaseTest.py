@@ -7,6 +7,6 @@ class TestCaseTest(TestCase):
 
   def testSetUp(self):
     self.test.run()
-    assert(self.test.log == 'setUp testMethod ')
+    assert(self.test.log == 'setUp testMethod tearDown ')
 
 TestCaseTest('testSetUp').run()
