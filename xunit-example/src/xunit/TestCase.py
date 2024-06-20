@@ -1,3 +1,5 @@
+from xunit.TestResult import TestResult
+
 class TestCase(object):
   def __init__(self, name):
     self.name = name
@@ -10,6 +12,7 @@ class TestCase(object):
     method = getattr(self, self.name)
     method()
     self.tearDown()
+    return TestResult()
   
   def tearDown(self):
     pass
