@@ -3,8 +3,8 @@ I'll be updating the to-do list as I go through the chapters in the book. If you
 
 * ~~Invoke test method~~
 * ~~Invoke setUp first~~
-* Invoke tearDown afterward
+* ~~Invoke tearDown afterward~~
+* ~~Log string in WasRun~~
+* Report collected results
 * Invoke tearDown even if the test method fails
 * Run multiple tests
-* Report collected results
-* ~~Log string in WasRun~~
