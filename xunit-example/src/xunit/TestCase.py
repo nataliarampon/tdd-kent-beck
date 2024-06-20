@@ -11,8 +11,11 @@ class TestCase(object):
     result = TestResult()
     result.testStarted()
     self.setUp()
-    method = getattr(self, self.name)
-    method()
+    try:
+      method = getattr(self, self.name)
+      method()
+    except:
+      result.testFailed()
     self.tearDown()
     return result
   

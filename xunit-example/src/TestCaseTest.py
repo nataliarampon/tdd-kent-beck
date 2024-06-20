@@ -11,8 +11,12 @@ class TestCaseTest(TestCase):
     assert(self.test.log == 'setUp testMethod tearDown ')
   
   def testResult(self):
-    self.test = WasRun('testMethod')
     result = self.test.run()
+    assert('1 run, 0 failed' == result.summary())
+
+  def testFailedResult(self):
+    test = WasRun('testBrokenMethod')
+    result = test.run()
     assert('1 run, 0 failed' == result.summary())
   
   def testFailedResultFormatting(self):
@@ -24,3 +28,4 @@ class TestCaseTest(TestCase):
 TestCaseTest('testSetUp').run()
 TestCaseTest('testResult').run()
 TestCaseTest('testFailedResultFormatting').run()
+TestCaseTest('testFailedResult').run()
