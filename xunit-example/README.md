@@ -7,6 +7,7 @@ I'll be updating the to-do list as I go through the chapters in the book. If you
 * ~~Log string in WasRun~~
 * ~~Report collected results~~
 * ~~Report failed tests~~
+* ~~* Run multiple tests~~
 * Invoke tearDown even if the test method fails
-* Run multiple tests
 * Catch and report setUp errors
+* Create TestSuite from a TestCase class
